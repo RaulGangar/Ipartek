@@ -1,0 +1,28 @@
+{
+  "personas": [
+    {
+      "id": 1,
+      "dni": "12345678Z",
+      "email": "javier@email.net",
+      "password": "1234"
+    },
+    {
+      "dni": "12345678Z",
+      "email": "modificado@asdf",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "dni": "12345678Z",
+      "email": "prueba@prueba",
+      "password": "prueba",
+      "id": 4
+    },
+    {
+      "dni": "12345678Z",
+      "email": "nuevo@nuevo",
+      "password": "1234",
+      "id": 6
+    }
+  ]
+}
